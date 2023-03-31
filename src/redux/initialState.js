@@ -1,7 +1,6 @@
-const initialState = {
+
+const initialState = { 
    tables: [],
-
-
-};
-
-export default initialState;
+ }
+ 
+ export default initialState;
